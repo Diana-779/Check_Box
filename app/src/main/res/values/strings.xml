@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Check Box</string>
+    <string name="textView">Selecteaza activitatea preferata!</string>
+    <string name="chkJocul">Jocul</string>
+    <string name="chkdesen">Desenul</string>
+    <string name="chkmuzica">Muzica</string>
+    <string name="chkbucataria">Bucataria</string>
+    <string name="getBTN">Optiuni selectate</string>
+    <string name="optiuni_selectate">Optiuni selectate</string>
+
+</resources>
